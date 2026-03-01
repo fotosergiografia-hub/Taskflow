@@ -1,0 +1,5 @@
+{
+  "name": "PDF Task Dashboard",
+  "description": "Extract tasks from PDF documents and manage them in an interactive Kanban dashboard using AI.",
+  "requestFramePermissions": []
+}
